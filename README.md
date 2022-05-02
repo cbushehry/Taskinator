@@ -6,6 +6,8 @@ Taskinator is an application that helps the user keep track of tasks they need t
 ## 2. Features
  * Add tasks to a list
  * Remove tasks from list when completed
+ * Rearrange order of tasks
+ * Save tasks
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
