@@ -3,7 +3,7 @@
 ## 1. Description
 Taskinator is an application that helps the user keep track of multiple custom tasks they are in the middle of completing. This application was built using HTML, CSS, and JavaScript. 
 
-DEPLOYMENT: https://cbushehry.github.io/taskinator/
+DEPLOYMENT: [DIRECT LINK](https://cbushehry.github.io/taskinator/) | [GITHUB REPOSITORY](https://github.com/cbushehry/taskinator)
 
 ## 2. Features
  * Add custom tasks to 'Tasks To Do' list
