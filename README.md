@@ -11,6 +11,8 @@ DEPLOYMENT: [DIRECT LINK](https://cbushehry.github.io/taskinator/) | [GITHUB REP
  * Rearrange order of tasks / type of tasks
  * Save tasks to localStorage
  * Retrieve tasks from localStorage so you dont lose your progress.
+ 
+ ![taskinator homepage](assets/images/taskinator-image.PNG)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
