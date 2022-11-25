@@ -14,7 +14,12 @@ DEPLOYMENT: [DIRECT LINK](https://cbushehry.github.io/taskinator/) | [GITHUB REP
  
  ![taskinator homepage](assets/images/taskinator-image.PNG)
 
-## 3. Credits / Contact
+## 3. Tech Stack
+ * HTML
+ * CSS
+ * JavaScript
+
+## 4. Credits / Contact
 This application was created by Cameron Bushehry
 
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cbushehry)
